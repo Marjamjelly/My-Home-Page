@@ -19,7 +19,7 @@ This is my home page that houses my old and new projects, and a library of unblo
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/interstellarnetwork/interstellar-deployable)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://github.com/interstellarnetwork/interstellar/wiki/How-to-deploy-to-OnRender)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/imbubbo/interstellar)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/helloklas-projects/import?s=https%3A%2F%2Fgithub.com%2FHelloklas%2FMy-Home-Page&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=my-home-page&framework=other&totalProjects=1&remainingProjects=1)
+[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/helloklas-projects/import?s=https%3A%2F%2Fgithub.com%2FHelloklas%2FMy-Home-Page&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=my-home-page&framework=other&totalProjects=1&remainingProjects=1)
 
 ### <a href="https://github.com/interstellarnetwork/Interstellar/wiki/How-to-deploy-to-Replit-(Semi-Advanced)">How to deploy to Replit - Replit Free Plan</a>
 
