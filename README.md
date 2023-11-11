@@ -2,7 +2,7 @@
 
 # Marjamjellys Home Page
 
-This is my home page that houses my old and new projects, and a library of unblocked games. Check it out <a href="https://helloklas.github.io/My-Home-Page/">here</a>.
+This is my home page that houses my old and new projects, and a library of unblocked games. Check it out <a href="https://helloklas.github.io/My-Home-Page/">here</a>. This is in active development, so it may be down or not working occasionally.
 
 <a href="https://github.com/Helloklas/My-Home-Page"><img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img></a>
 </p>  
