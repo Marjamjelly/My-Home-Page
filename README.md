@@ -8,7 +8,7 @@ This is my home page that houses my old and new projects, and a library of unblo
 </p>  
 
 # Deploying
-
+<hr>
 **Note:**  This should work on all services, though I have not tried it out.
   
 ### Free Services
@@ -29,20 +29,6 @@ This is my home page that houses my old and new projects, and a library of unblo
 [![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/interstellarnetwork/interstellar/archive/refs/heads/main.zip)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/interstellarnetwork/interstellar&branch=main&name=interstellar&run_command=npm%start)
 [![Run on Google Cloud](https://camo.githubusercontent.com/4fab2bbebcae1fe689b7d3eba3b89e309169215055849590724fd6e13333558c/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f676f6f676c65636c6f75642e737667)](https://deploy.cloud.run/?git_repo=https://github.com/interstellarnetwork/interstellar)
-
-
-
-
-
-# Project Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/cb9f30f479ea962536e2507e469a04718173bf3c.svg "Repobeats analytics image")
-
-
-
-# Contributors 
-Thank you to everyone who has contributed to Interstellar!
-<img src="https://contrib.rocks/image?repo=interstellarnetwork/interstellarnetwork.github.io"/>
 
 
 
