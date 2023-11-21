@@ -15,7 +15,7 @@ This is my home page that houses my old and new projects, and a library of unblo
   
 ### Free Services
 
-[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/helloklas-projects/import?s=https%3A%2F%2Fgithub.com%2FHelloklas%2FMy-Home-Page&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=my-home-page&framework=other&totalProjects=1&remainingProjects=1)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Helloklas/My-Home-Page) [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/Helloklas/My-Home-Page) [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Helloklas/My-Home-Page) [![Deploy to IBM Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/Helloklas/My-Home-Page)
 
 <hr>
 
